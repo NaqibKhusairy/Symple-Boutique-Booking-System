@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738006480 source:c:\users\naaqi\downloads\symple-boutique-booking-system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
